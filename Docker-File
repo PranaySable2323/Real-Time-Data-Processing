@@ -1,0 +1,1 @@
+docker run --name weather-db -e MYSQL_ROOT_PASSWORD=your_password -e MYSQL_DATABASE=weather_db -d mysql:latest
